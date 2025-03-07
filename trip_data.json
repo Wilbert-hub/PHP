@@ -1,0 +1,19 @@
+{
+    "employee": {
+        "name": "Никита",
+        "surname": "Молчун",
+        "secondName": "Сергеевич",
+        "jobTitle": "Сотрудник",
+        "passport": "1111"
+    },
+    "city": {
+        "name": "Могилёв",
+        "country": "Беларусь",
+        "isCapital": "1",
+        "perDay": "11"
+    },
+    "startDate": "2025-02-01",
+    "endDate": "2025-02-08",
+    "days": 7,
+    "sum": 77
+}
